@@ -1,0 +1,27 @@
+
+.box1 {
+    background-color: gray; 
+    padding: 10px;
+    margin-top: 20px;
+}
+ 
+.box2 {
+    margin: 3px;
+     
+}
+
+.box3{
+    background-color: rgb(211, 210, 210);
+    border-color: gray;
+    border-width: 1px;
+}
+
+
+
+p {
+    padding: 10px;
+}
+#ourmenu {
+    margin: 20px;
+}
+
